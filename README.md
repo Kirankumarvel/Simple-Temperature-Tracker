@@ -21,7 +21,7 @@ A beginner-friendly Python project that visualizes daily temperature fluctuation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kirankumarvel/temperature-tracker.git
+   git clone https://github.com/Kirankumarvel/Simple-Temperature-Tracker.git
    cd temperature-tracker
    ```
 
